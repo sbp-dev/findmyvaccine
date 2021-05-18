@@ -1,2 +1,2 @@
-# findmyvaccine
-This app checks for availability of vaccines in India at regular intervals (every 10-20 mins). It stops automatically when slots are found and can alert you in different ways. If you find eligible vaccination slots, please book immediately using CoWin portal or Aarogya Setu app. This is an open source, personal project and is based on open APIs provided by API Setu initiative of Government of India.  
+# FindMyVaccine
+This app checks for availability of vaccines in India at regular intervals (every 5-15 mins). It stops automatically when slots are found and can alert you in different ways. If you find eligible vaccination slots, please book immediately using CoWin portal or Aarogya Setu app. This is an open source, personal project based on open APIs provided by API Setu initiative of Government of India. Contributions are welcome!
